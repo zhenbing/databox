@@ -1,0 +1,9 @@
+#requires PyYAML
+LANDSAT:
+  ROOT: /mnt/DataBoxStorage/LANDSAT
+  GSIZE: 0.5
+  SENSORS: [L45TM]
+  
+MODIS:
+  ROOT: /mnt/DataBoxStorage/MODIS
+  GSIZE: 2
